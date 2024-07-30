@@ -1,0 +1,14 @@
+D:\Programming\C#\Desktop\NoteBook\bin\Debug\NoteBook.exe.config
+D:\Programming\C#\Desktop\NoteBook\bin\Debug\NoteBook.exe
+D:\Programming\C#\Desktop\NoteBook\bin\Debug\NoteBook.pdb
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.csproj.AssemblyReference.cache
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.Form1.resources
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.cache
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.exe
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.pdb
+D:\Programming\C#\Desktop\NoteBook\bin\Debug\NoteBook.exe.manifest
+D:\Programming\C#\Desktop\NoteBook\bin\Debug\NoteBook.application
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.exe.manifest
+D:\Programming\C#\Desktop\NoteBook\obj\Debug\NoteBook.application
